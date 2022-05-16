@@ -6,7 +6,7 @@ Monte Carlo simulation is a technique used to predict the probability of differe
 ## Value of Customers (CLV)
 Monte Carlo simulation can very useful when estimating the value of customers.
 
-Here is a project I did for a company that runs a subscription business model. All data is modified from the real data.
+Here is a project I did for a company that runs a subscription business model. All data is fake data, recreated by me.
 The model below is one simulation for one random sample of their customers. By applying cohort analysis which groups customers based on the time of their first subscription, the average monthly retention rate can be obtained. Acquiring costs are estimated based on their ad expenditure on Facebook. The rests are assumptions. All these estimates and assumptions can be improved by acquiring more data and consulting experts, which will also improve the model accuracy. 
 
 <img width="659" alt="CLV1" src="https://user-images.githubusercontent.com/102925575/166136057-23bae289-8771-4990-a8fd-46798538192c.PNG">
